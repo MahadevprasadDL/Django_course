@@ -12,8 +12,7 @@
      --> visit http://127.0.0.1:8000
 
 # Finally the Output is 
-![Screenshot (380)](https://github.com/user-attachments/assets/a93a0bfe-c57f-4066-9bf2-beb8913de683)
 
-![Screenshot (379)](https://github.com/user-attachments/assets/44ad56a0-42c6-45a0-b743-028f26ddcaa2)
+
 
 
