@@ -12,7 +12,7 @@
      --> visit http://127.0.0.1:8000
 
 # Finally the Output is 
-
+![Screenshot (380)](https://github.com/user-attachments/assets/81c28153-1aff-424e-9135-66a45414f2a7)
 
 
 
