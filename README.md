@@ -16,3 +16,14 @@
 
 ![Screenshot (379)](https://github.com/user-attachments/assets/3051094f-a7ec-4d87-b158-9819ea49814a)
 
+
+## NOTE 
+
+1. I did not include the environment variables or the manage.py file.
+
+2. I also didn't include files related to the virtual environment.
+
+3. I only uploaded the main Django files.
+
+4. Ensure the correct Django environment variables are set up before running the code.
+
